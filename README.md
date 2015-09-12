@@ -6,7 +6,7 @@ This application is an initial set up to understanding file structure and learn 
 
 ## Learnings
 
-1. When using identifiers in the '<h4></h4>' and '<ul></ul>', "class" did not display anything on the screen, "id" was needed for the elements to display in the html, and the css to be properly applied. 
+1. When using identifiers in the ```<h4></h4>``` and ```<ul></ul>```, "class" did not display anything on the screen, "id" was needed for the elements to display in the html, and the css to be properly applied. 
 
 ## Prerequisites
 
