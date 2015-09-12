@@ -1,11 +1,12 @@
 # Trial-app
 
 This README outlines the details of collaborating on this Ember application.
-This application is a trial of initial set up and understanding file structure and learning to make an application with this framework.
+
+This application is an initial set up to understanding file structure and learn how to make an application with this framework.
 
 ## Learnings
 
-1. When using identifiers in the <h4></h4> and <ul></ul> the "class" did not display anything on the screen, "id" was needed for the elements to display in html, and the css properly applied. 
+1. When using identifiers in the '<h4></h4>' and '<ul></ul>', "class" did not display anything on the screen, "id" was needed for the elements to display in the html, and the css to be properly applied. 
 
 ## Prerequisites
 
