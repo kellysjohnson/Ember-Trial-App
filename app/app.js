@@ -14,9 +14,9 @@ App = Ember.Application.extend({
   Resolver: Resolver
 });
 
-App.Router.map(function(){
-  this.route('about', {path: '/aboutus'});
-});
+// App.Router.map(function(){
+//   this.route('about', {path: '/aboutus'});
+// });
 
 // The about path will be loaded in the 'outlet section'
 // The index.html loads first, then goes to retreive each of the templates
