@@ -1,4 +1,4 @@
-<h2 id="title">Welcome to Ember</h2>
+<h2 id="title">Welcome to {{siteName}}</h2>
 
 <h4 id="list">Here's some Things</h4>
 
@@ -7,4 +7,18 @@
     <li> Thing 2 </li>
 </ol>
 
-{{outlet}}
+<script type="text/x-handlebars" data-template-name="application">
+  <div id="navbar"></div>
+  <div class="container"> {{outlet}} </div>
+
+  <footer class="container"></footer>
+  <!-- An 'outlet' looks for an "index" template by default -->
+</script>
+
+<script type="text/x-handlebars" data-template-name="index">
+  <h1> Welcome to Flint and Flame! </h1>
+</script>
+
+<script type="text/x-handlebars" data-template-name="about">
+  <h1> About Flint and Flame! </h1>
+</script>
