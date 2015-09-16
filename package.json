@@ -1,11 +1,3 @@
-/* Cool thing I learned.
-    package.json lists all of your node dependencies,
-    bower.json lists all your javascript dependencies.
-
-Gulp plugins are going in package.json as they are installed using npm package manager
-http://forum.ionicframework.com/t/package-json-vs-bower-json/19251 */
-
-
 {
   "name": "trial-app",
   "version": "0.0.0",

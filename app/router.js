@@ -8,4 +8,7 @@ var Router = Ember.Router.extend({
 Router.map(function() {
 });
 
+{{#link-to 'index' class="navbar class"}} Home Page {{/link-to}}
+{{#link-to 'about'}} About {{/link-to}}
+
 export default Router;
